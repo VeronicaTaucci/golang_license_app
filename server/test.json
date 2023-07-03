@@ -1,0 +1,10 @@
+{
+    "fName": "John",
+    "lName": "Doe",
+    "cores": "4",
+    "MAC": "00:1B:44:11:3A:B7",
+    "company": "Example Company",
+    "email": "johndoe@example.com",
+    "expDate": "2023-12-31"
+}
+
